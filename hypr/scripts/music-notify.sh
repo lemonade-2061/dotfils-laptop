@@ -1,0 +1,1 @@
+../../../dotfiles/hypr/hypr/scripts/music-notify.sh

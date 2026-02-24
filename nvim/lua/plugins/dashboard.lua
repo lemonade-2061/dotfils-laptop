@@ -1,0 +1,1 @@
+../../../../dotfiles/nvim/nvim/lua/plugins/dashboard.lua

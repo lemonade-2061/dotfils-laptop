@@ -1,0 +1,1 @@
+../../../dotfiles/cava/cava/shaders/spectrogram.frag
